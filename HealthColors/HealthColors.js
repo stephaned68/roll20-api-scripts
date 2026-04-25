@@ -1,5 +1,5 @@
 // ===========================
-// === HealthColors v2.0.1 ===
+// === HealthColors v2.1.0 ===
 // ===========================
 
 // AUTHORS:
@@ -12,10 +12,10 @@
   "use strict";
 
   // ————— CONSTANTS —————
-  const VERSION = "2.0.1";
+  const VERSION = "2.1.0";
   const SCRIPT_NAME = "HealthColors";
   const SCHEMA_VERSION = "1.1.0";
-  const UPDATED = "2026-04-20 17:00 UTC";
+  const UPDATED = "2026-04-25 07:30 UTC";
 
   // ————— DEFAULTS —————
   /**
